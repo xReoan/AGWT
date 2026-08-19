@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AGWT/AGWT.vcxproj" Id="b945ca02-1d21-49ae-b115-c7e4edb1197e" />
+</Solution>
